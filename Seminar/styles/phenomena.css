@@ -1,0 +1,29 @@
+#phenomena > div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 60px 0;
+}
+
+.class_Phenomenon_Article {
+  width: 400px;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 4px;
+}
+
+.phenomenon_image {
+  width: 400px;
+  height: 400px;
+
+  margin: 0 auto;
+}
+
+.phenomenon__description {
+  font-size: 16px;
+  text-align: center;
+}
+
+.phenomenon_title {
+  text-align: center;
+}

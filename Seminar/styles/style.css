@@ -1,0 +1,8 @@
+@import "./variables.css";
+@import "./header.css";
+@import "./footer.css";
+@import "./body.css";
+@import "./phenomena.css";
+@import "./introduction.css";
+@import "./zenerCards.css";
+@import "./_gameUI.css";

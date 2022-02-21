@@ -1,0 +1,38 @@
+/*#abilities {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+*/
+/*.zenerCardGame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+*/
+
+.zenerContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.description_image {
+  width: 600px;
+  height: 250px;
+}
+
+.cardImage_image {
+  width: 75px;
+  height: 150px;
+  margin: 40px, 40px;
+  padding: 40px, 40px;
+}
+
+#abilities > .class_DescriptionCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+}

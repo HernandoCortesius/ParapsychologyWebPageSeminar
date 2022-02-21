@@ -1,0 +1,16 @@
+#introduction div .description_image {
+  width: 800px;
+  height: 400px;
+
+  margin: 0 auto;
+}
+.class_DescriptionCard {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.descriptionCard_text {
+  font-size: 24px;
+  text-align: center;
+}

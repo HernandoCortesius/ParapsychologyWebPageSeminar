@@ -1,0 +1,15 @@
+#Upute {
+  font-size: 20px;
+}
+
+#GameUi {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+}
+
+#TheCard {
+  width: 30px;
+  height: 30px;
+  border: black;
+}
